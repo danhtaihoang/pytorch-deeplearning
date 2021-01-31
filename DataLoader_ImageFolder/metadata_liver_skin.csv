@@ -1,0 +1,11 @@
+Image_name,Cancer_type,Gen_value
+a11,liver,0.1
+a12,liver,0.3
+a13,liver,0.5
+a14,liver,0.7
+a15,liver,0.9
+b11,skin,0.2
+b12,skin,0.4
+b13,skin,0.6
+b14,skin,0.8
+b15,skin,1
