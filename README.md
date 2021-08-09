@@ -9,6 +9,6 @@
 
 - ResNet
 
-- AutoEncoder
+- (Convolutional) AutoEncoder
 
 - Generative Adversarial Networks (GANs)
