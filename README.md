@@ -9,6 +9,6 @@
 
 - ResNet
 
-- AutoEncoder
+- AutoEncoder (with MNIST data)
 
 - Generative Adversarial Networks (GANs)
